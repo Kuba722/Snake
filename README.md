@@ -59,7 +59,8 @@ Additional components:
 <img width="416" height="445" alt="image" src="https://github.com/user-attachments/assets/a6f3c619-908b-4220-a530-01a34acdfa2a" />
 
 ### Gameplay
-<img width="416" height="445" alt="image" src="https://github.com/user-attachments/assets/6f6465fa-dac6-45bf-ae42-404bbbefc50b" />
+
+<img width="422" height="447" alt="image" src="https://github.com/user-attachments/assets/4f918be1-e471-428d-8855-6715f12d1557" />
 
 
 ### Ranking
