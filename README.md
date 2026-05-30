@@ -62,13 +62,12 @@ Additional components:
 
 <img width="422" height="447" alt="image" src="https://github.com/user-attachments/assets/4f918be1-e471-428d-8855-6715f12d1557" />
 
-
-### Ranking
-<img width="415" height="448" alt="image" src="https://github.com/user-attachments/assets/8d70e84f-3d98-42bf-81a3-eb106f3eb552" />
-
 ### Game Over
 
 <img width="419" height="448" alt="image" src="https://github.com/user-attachments/assets/11f96088-3407-4846-ad65-df0a0843e736" />
+
+### Ranking
+<img width="415" height="448" alt="image" src="https://github.com/user-attachments/assets/8d70e84f-3d98-42bf-81a3-eb106f3eb552" />
 
 
 ## Future Improvements
