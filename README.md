@@ -66,7 +66,8 @@ Additional components:
 <img width="415" height="448" alt="image" src="https://github.com/user-attachments/assets/8d70e84f-3d98-42bf-81a3-eb106f3eb552" />
 
 ### Game Over
-<img width="415" height="448" alt="image" src="https://github.com/user-attachments/assets/4a6df742-1cca-4a9d-aca8-7a95199eccfa" />
+
+<img width="419" height="448" alt="image" src="https://github.com/user-attachments/assets/11f96088-3407-4846-ad65-df0a0843e736" />
 
 
 ## Future Improvements
