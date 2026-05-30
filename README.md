@@ -53,7 +53,7 @@ Additional components:
 * C++17 compatible compiler
 * SFML 2.x
 
-* ## Screenshots
+## Screenshots
 
 ### Main Menu
 <img width="416" height="445" alt="image" src="https://github.com/user-attachments/assets/a6f3c619-908b-4220-a530-01a34acdfa2a" />
